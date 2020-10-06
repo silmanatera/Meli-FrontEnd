@@ -1,0 +1,12 @@
+.navbar-bg {
+    background: #FFE600;
+}
+
+.navbar .search {
+    display: block;
+    margin: 0 auto;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}

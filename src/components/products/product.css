@@ -1,0 +1,91 @@
+.card {
+    border: 0;
+}
+
+.card>hr {
+    width: 96%;
+    margin: 0 auto;
+}
+
+.row {
+    background-color: white;
+}
+
+
+/* Product Details*/
+
+.product-details button {
+    width: 100%;
+}
+
+.product-details .content {
+    max-width: 680px;
+}
+
+.product-details .mt-detail {
+    margin-top: 32px;
+}
+
+.product-details .col-md-4 {
+    padding-right: 32px;
+}
+
+.product-details .principal-title {
+    font-size: 28px;
+    margin-bottom: 0px;
+}
+
+.product-details .description-content {
+    color: #666;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 32px 0 32px 0;
+}
+
+.product-details .card-title p:nth-child(1) {
+    font-size: 14px;
+    padding-bottom: 16px;
+}
+
+.product-details .card-title p:nth-child(2),
+.product-details .card-title p:nth-child(3) {
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+
+.product-details .card-title p:nth-child(2) {
+    color: #333;
+    font-weight: bold;
+}
+
+.product-details .card-title p:nth-child(3) {
+    font-size: 46px;
+}
+
+.product-details div:nth-child(3) {
+    margin-top: 10%;
+}
+
+
+/* Product List*/
+
+.product-list .card-text {
+    font-size: 18px;
+}
+
+.product-list .img-list {
+    border-radius: 4px;
+    height: 180px;
+    padding: 16px;
+    width: 180px;
+}
+
+.product-list .img-shipping {
+    width: auto;
+    height: auto;
+}
+
+.location {
+    font-size: 12px;
+    position: absolute;
+}
